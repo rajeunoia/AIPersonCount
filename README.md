@@ -1,8 +1,12 @@
 # AIPersonCount
 AI Person Count with Open CV , Tensforflow with minimum number of code lines. 
 
-This program detect common objects as Person , Car, Trucks etc and also shows the count of people in each Frame. 
+Using this few lines , you can do person detection and person count on any youtube video, 
 
+To change the youtube video link, go to python file and replace the youtube link and your youtube file will run and you can see the person count. 
+The accuracy is not upto mark. I will add more repos with similar usecases. 
+
+This program detect common objects as Person , Car, Trucks etc and also shows the count of people in each Frame. 
 This will need Tensorflow on MacOS, as of Apr 2023, this needs Python < 3.11 , I did with Python 3.10.9
 
 
